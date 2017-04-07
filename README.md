@@ -1,0 +1,2 @@
+# ruling
+shopify private app
